@@ -1,7 +1,7 @@
 {
-    "room":     "Imaginary Bar",
-    "author":   "greySynapse",
-    "css":      null,
+    "room":                     "Imaginary Bar",
+    "author":                   "greySynapse",
+    "css":                      null,
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -13,30 +13,30 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":            null,
-        "ambassador":       null,
-        "host":             "#B30000",
-        "cohost":           "#B30000",
-        "manager":          "#B34AB3",
-        "bouncer":          "#54BBF6",
-        "rdj":              "#F57F3C",
-        "subscriber":       null,
-        "friend":           null,
-        "user":             null
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "#B30000",
+        "cohost":               "#B30000",
+        "manager":              "#B34AB3",
+        "bouncer":              "#54BBF6",
+        "rdj":                  "#F57F3C",
+        "subscriber":           null,
+        "friend":               null,
+        "user":                 null
     },
     "images": {
-        "background":       null,
-        "playback":         null,
-        "admin":            null,
-        "ambassador":       null,
-        "host":             "http://i.imgur.com/hGkgjWT.png",
-        "cohost":           "http://i.imgur.com/hGkgjWT.png",
-        "manager":          null,
-        "bouncer":          null,
-        "rdj":              null,
-        "subscriber":       null
+        "background":           null,
+        "playback":             null,
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "http://i.imgur.com/hGkgjWT.png",
+        "cohost":               "http://i.imgur.com/hGkgjWT.png",
+        "manager":              null,
+        "bouncer":              null,
+        "rdj":                  null,
+        "subscriber":           null
     },
     "emotes": {
-    	"emote_name":       null
+    	"emote_name":           null
     }
 }
