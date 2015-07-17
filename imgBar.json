@@ -28,7 +28,7 @@
         "background":       null,
         "playback":         null,
         "admin":            null,
-        "ambassador":       "http://i.imgur.com/QBq7Q8B.png",
+        "ambassador":       null,
         "host":             "http://i.imgur.com/hGkgjWT.png",
         "cohost":           "http://i.imgur.com/hGkgjWT.png",
         "manager":          null,
