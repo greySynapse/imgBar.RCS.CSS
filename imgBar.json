@@ -1,7 +1,7 @@
 {
     "room":                     "Imaginary Bar",
     "author":                   "greySynapse",
-    "css":                      null,
+    "css":                      "https://rawgit.com/greySynapse/imgBar.RCS.CSS/master/imgBar.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
