@@ -25,15 +25,15 @@
         "user":                 null
     },
     "images": {
-        "background":           null,
+        "background":           "http://i.imgur.com/JU1fpYN.png",
         "playback":             null,
-        "admin":                null,
-        "ambassador":           null,
+        "admin":                "http://i.imgur.com/hZXti8A.png",
+        "ambassador":           "http://i.imgur.com/hSE6vNV.png",
         "host":                 "http://i.imgur.com/hGkgjWT.png",
-        "cohost":               "http://i.imgur.com/hGkgjWT.png",
-        "manager":              null,
-        "bouncer":              null,
-        "rdj":                  null,
+        "cohost":               "http://i.imgur.com/8eXekmy.png",
+        "manager":              "http://i.imgur.com/w0ALDLd.png",
+        "bouncer":              "http://i.imgur.com/Jxy0MO9.png",
+        "rdj":                  "http://i.imgur.com/ppoGbOx.png",
         "subscriber":           null
     },
     "emotes": {
